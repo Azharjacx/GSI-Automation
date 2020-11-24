@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.45_GLO_045_2004142201/OnePlus6Oxygen_22_OTA_045_all_2004142201_b8f5.zip
   ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS_10.3.3_GSI_by_TechyMinati
+  ZIP_NAME: OxygenOS_10.3.3_GSI_by_Nuttcracker
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
